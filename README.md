@@ -1,2 +1,2 @@
 # Year-2-Semester-1-Crud-Sample-Project
-Explore CRUD functionalities with this Java project. Learn how to Create, Read, Update, and Delete data efficiently. The project is well-documented and includes error handling. Ideal for beginners and as a reference for more complex Java CRUD applications.
+Explore This Java CRUD sample project demonstrates the basic functionalities of Create, Read, Update, and Delete operations using Java programming language. It provides a simple yet comprehensive example of how to perform CRUD operations on a data store, along with proper error handling and validation. The project includes clear documentation and comments to aid understanding and can serve as a foundation for more complex CRUD applications.
